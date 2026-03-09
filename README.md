@@ -5,6 +5,5 @@
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![HTML](![W3C Validation](https://img.shields.io/w3c-validation/html)
->
+![W3C Validation](https://img.shields.io/w3c-validation/html)
 
