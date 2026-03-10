@@ -1,4 +1,4 @@
-<img width="115%" src="https://capsule-render.vercel.app/api?type=waving&color=AA0000&height=120&section=header&text=FalconGameZ!&fontSize=40&fontColor=ffffff&fontAlign=center"/>
+<img width="115%" src="https://capsule-render.vercel.app/api?type=waving&color=AA0000&height=120&section=header&text=💥FalconGameZ!💥&fontSize=40&fontColor=ffffff&fontAlign=center"/>
 
 
 
